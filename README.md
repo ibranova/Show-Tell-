@@ -25,7 +25,8 @@ Here’s how list comprehension could help:
 
 <img width="811" alt="Screenshot 2025-06-11 at 4 36 54 PM" src="https://github.com/user-attachments/assets/c99fdccb-bf74-477e-aa86-65251def02ac" />
 
-Now, `fast_reviews` contains only the relevant feedback, ready for further analysis or reporting.
+   
+   Now, `fast_reviews` contains only the relevant feedback, ready for further analysis or reporting.
 
 
 
